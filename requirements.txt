@@ -1,0 +1,9 @@
+opencv-python
+mediapipe
+easyocr
+numpy
+Pillow
+pyttsx3
+python-docx
+reportlab
+pytest
